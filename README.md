@@ -1,4 +1,4 @@
-# Hi, I'm Akanksha 👋
+# Hi, I'm Akanksha Renukuntla
 
 I'm a Software Engineer based in New Jersey, focused on building production AI systems — agentic pipelines, RAG architectures, and LLM-powered backends that actually work at scale.
 
