@@ -45,7 +45,7 @@ PyTorch · TensorFlow · MLflow · SageMaker · LLM-as-judge frameworks · Prome
 
 ## Currently working on
 
-- Production agentic AI platform @ Ashine Business Solution — LangGraph orchestration, 50K+ daily requests
+- Production agentic AI platform @ Ashine Business Solution LangGraph orchestration, 50K+ daily requests
 - Building eval-driven RAG systems with context compression and multi-provider LLM routing
 
 ---
